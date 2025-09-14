@@ -1,6 +1,6 @@
 1. TỔNG QUAN
    Project này làm end-to-end việc database hoá 1 file CSV vào DB -> Kéo data từ DB về làm Visualize Dashboard -> Kéo data từ DB về làm Phân tích (ở đây phân tích bài toán giỏ hàng), sau đó lưu ngược kết quả lên DB.
-   Mục tiêu:
+   \nMục tiêu:
 
 - Database hoá các file quản lý thủ công trong doanh nghiệp: excel, csv,... về 1 database để quản lý tập trung.
 - Làm dashboard để theo dõi tình hình đơn hàng.
