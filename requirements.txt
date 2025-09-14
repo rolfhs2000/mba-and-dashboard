@@ -1,4 +1,3 @@
-numpy
 pandas
-pyodbc
+mysql-connector-python
 mlxtend
