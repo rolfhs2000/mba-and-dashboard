@@ -14,6 +14,7 @@
    Step 4. Run file src/stat_buy_togethers.ipynb: Run file này để đọc lại data bán hàng đã ghi ở bước 3 -> Chạy model phân tích giỏ hàng (FPGrowth) -> Ghi kết quả phân tích vào DB.
 
 3. PROJECT STRUCTURE
+```
    MBA-AND-DASHBOARD/
    ├── README.md # Giới thiệu, hướng dẫn sử dụng project
    ├── requirements.txt # Danh sách các thư viện Python cần cài đặt
@@ -41,7 +42,7 @@
    │ │ ├── general.py # Hàm tiện ích chung của project
    ├── .gitignore
    ├── .vscode/
-
+```
 Account read_only (MySQL)
 (Just for education purpose, please don't spam!)
 SERVER = 'mba-and-dashboard.cn4i0gwkgmxu.ap-southeast-2.rds.amazonaws.com'
